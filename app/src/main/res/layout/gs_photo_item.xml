@@ -19,6 +19,12 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
             app:srcCompat="@drawable/gs_double_hand_love" />
+
+        <com.example.dialogfragment.view.LoadingView
+            android:id="@+id/loadingView"
+            android:layout_width="15dp"
+            android:layout_height="15dp"
+            android:layout_gravity="right" />
     </FrameLayout>
 
 </FrameLayout>

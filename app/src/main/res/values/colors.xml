@@ -6,4 +6,5 @@
     <color name="white">#ffffffff</color>
     <color name="yellow">#FFDD00</color>
     <color name="black">#000001</color>
+    <color name="gainsboro">#dcdcdc</color>
 </resources>
